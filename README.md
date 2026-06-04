@@ -153,11 +153,11 @@ Potential future extension using:
 ```text
 .
 ├── data/
-│   ├── world_cup_tournaments.xlsx
-│   └── world_cup_teams.xlsx
+│   ├── world_cup_tournaments.xlsx (hasn't been added yet) 
+│   └── world_cup_teams.xlsx (hasn't been added yet)
 │
 ├── notebooks/
-│   └── FIFA.ipynb
+│   └── FIFA.ipynb (at present it is at the project root)
 │
 ├── outputs/
 │   ├── charts/
